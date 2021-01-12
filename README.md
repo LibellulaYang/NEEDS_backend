@@ -8,8 +8,8 @@ index  為管理 cors
 若有檔案需要 RESTful 需求（ＣＲＵＤ）
 請在 src 檔案位置，建立資料夾管控。
 
-React 連結
-https://github.com/calico-elivia/NEEDS
+React 前端連結：
+https://github.com/LibellulaYang/NEEDS_frontend.git
 
 Port:5000
 
